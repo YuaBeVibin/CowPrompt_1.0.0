@@ -26,7 +26,7 @@ elif cow.upper() == "WHAT'S PRISON LIKE?":
     print("Hell")
 elif cow == "i believe it is called the rickroll, a cultural necrophenomiconnonon that originated in south france after a mythical creature known as the sphinx decided to headbutt the Eiffel Tower which created Jean Pierre Polanareff from JoJo's Bizzare Adventure Part 3: Stardust Crusaders, Polanareff then stabbed the Nepal flag which created jacksfilms, unfortunately he got in a car accident with Jesus which created the final product that we call Call Of Duty":
     print("https://fauux.neocities.org/")
-elif cow.upper() == "help":
+elif cow.upper() == "HELP":
     print("YES, NO, MAYBE, COW, PRINGLES, SHOOP, OCTOBER, NUGGET FART, SHIT NUGGET FART POOP, COPY, WHAT'S PRISON LIKE?")
 elif cow.upper() == "INFO":
     print("CowPrompt version 1.0.0")
